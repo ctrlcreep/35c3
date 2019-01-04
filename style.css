@@ -34,7 +34,7 @@ img {
  height: auto;
  width: auto;
  max-width: 150px;
- margin: auto;
+ margin: 0;
  display: block;
 }
 
@@ -54,8 +54,15 @@ img {
 
 .figure {
  font-size: 0.65em;
+ font-style: italic;
  text-align: center;
  padding-bottom: 1.5em;
+}
+
+.double {
+ display: flex;
+ align-items: center;
+ justify-content: center;
 }
 
 .conclusion {
