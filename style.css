@@ -33,7 +33,7 @@ p {
 .main {
  background-color: white;
  margin: auto;
- padding: 7em;
+ padding: 2em 7em;
 }
 
 .content {
@@ -41,9 +41,10 @@ p {
  padding-top: 2em;
  column-count: 2;
  width: 750px;
+ margin: auto;
 }
 
 .conclusion {
- text-style: italic;
+ font-style: italic;
 }
  
