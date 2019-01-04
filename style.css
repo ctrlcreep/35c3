@@ -73,6 +73,11 @@ img {
  padding-top: 2em;
 }
 
+.references {
+ width: 750px;
+ font-size: 0.65em;
+}
+
 #prime {
  max-width: 250px;
 }
