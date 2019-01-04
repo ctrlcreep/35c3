@@ -34,6 +34,7 @@ img {
  height: auto;
  wigth: auto;
  max-width: 200px;
+ margin: auto;
 }
 
 .main {
@@ -48,6 +49,10 @@ img {
  column-count: 2;
  width: 750px;
  margin: auto;
+}
+
+.figure {
+ font-size: 0.65em;
 }
 
 .conclusion {
