@@ -72,4 +72,8 @@ img {
  margin: auto;
  padding-top: 2em;
 }
+
+#prime {
+ max-width: 250px;
+}
  
