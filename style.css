@@ -1,5 +1,5 @@
 body {
- background-color: black;
+ background-color: #707070;
  font-family: Georgia;
  color: black;
  margin: 0;
@@ -24,11 +24,19 @@ h2 {
  text-align: center;
 }
 
+p {
+ text-indent: 1em;
+}
+
 .main {
  background-color: white;
  margin: auto;
  width: 650px;
  padding: 1em 7em;
+}
+
+.content {
+ column-count: 2;
 }
 
 .conclusion {
