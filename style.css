@@ -30,6 +30,12 @@ p {
  margin-top: 0;
 }
 
+img {
+ height: auto;
+ wigth: auto;
+ max-width: 200px;
+}
+
 .main {
  background-color: white;
  margin: auto;
@@ -45,6 +51,7 @@ p {
 }
 
 .conclusion {
+ width: 750px;
  font-style: italic;
 }
  
