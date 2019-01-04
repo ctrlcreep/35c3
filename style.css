@@ -26,18 +26,21 @@ h2 {
 
 p {
  text-indent: 1em;
- font-size: 0.95em;
+ font-size: 0.85em;
+ margin-top: 0;
 }
 
 .main {
  background-color: white;
  margin: auto;
- width: 650px;
  padding: 7em;
 }
 
 .content {
+ text-align: justify;
+ padding-top: 2em;
  column-count: 2;
+ width: 750px;
 }
 
 .conclusion {
