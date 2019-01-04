@@ -1,5 +1,5 @@
 body {
- background-color: #707070;
+ background-color: #474747;
  font-family: Georgia;
  color: black;
  margin: 0;
@@ -26,13 +26,14 @@ h2 {
 
 p {
  text-indent: 1em;
+ font-size: 0.95em;
 }
 
 .main {
  background-color: white;
  margin: auto;
  width: 650px;
- padding: 1em 7em;
+ padding: 7em;
 }
 
 .content {
